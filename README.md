@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siletti
-- 👀 I’m interested in coding, Java backend, Microservice, SpringBoot, Kotlin, Go lang etc...
+- 👀 I’m interested in coding, Java, Microservice, SpringBoot, Scala lang, Kotlin etc...
 - 📫 How to reach me https://www.linkedin.com/in/alberto-siletti/
 
 <!---
